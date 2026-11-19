@@ -76,14 +76,14 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshanisingh1979-beep&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanisingh1979-beep&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roshanisingh19179-beep&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanisingh19179-beep&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/roshanisingh1979-beep">
+  <a href="https://github.com/roshanisingh19179-beep">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
