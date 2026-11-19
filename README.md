@@ -39,7 +39,11 @@
 </p>
 
 ## 🤝 Connect With Me
-
+<p align="center">
+  <a href="https://instagram.com/roshaniiii_singhh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Roshani Singh</h1>
 
 <h3 align="center">B.Tech CSE Student | Aspiring AI/ML Developer</h3>
